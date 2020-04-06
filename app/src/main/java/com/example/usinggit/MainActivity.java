@@ -17,3 +17,11 @@ public class MainActivity extends AppCompatActivity {
     // Connect Firebase to the project
     // Add login feature
 }
+
+
+// https://github.com/ удаленный репозиторий.
+// На - https://github.com - приватный (доступ к файлам только у самого себя) репозиторий платный,
+// но можно использовать бесплатно публичный репозиторий(доступ к файлам у всех пользователей)
+
+// https://bitbucket.org/ удаленный репозиторий бесплатно размещение
+// приватных и публичных репозиториев
